@@ -19,12 +19,12 @@ A simple, elegant **Mini Calendar** built using **HTML**, **CSS**, and **JavaScr
 ---
 
 ## 📁 File Structure
--📁 mini-calendar/
--├── index.html # Main calendar layout
--├── style.css # Styling for calendar and time
--├── index.js # JavaScript to handle date and time
--├── background.jpg # Optional background image
--└── README.md # Project documentation
+- 📁 mini-calendar/
+- ├── index.html # Main calendar layout
+- ├── style.css # Styling for calendar and time
+- ├── index.js # JavaScript to handle date and time
+- ├── background.jpg # Optional background image
+- └── README.md # Project documentation
 
 
 
@@ -53,12 +53,7 @@ To show the **time** correctly, make sure your `index.js` includes proper updati
 
 ---
 
-## 👤 Author
 
-**Rahul**  
-MCA Graduate | Python Fullstack Developer  
-📍 Nellore, India  
-🎧 Hobbies: Gym, Music
 
 ---
 
